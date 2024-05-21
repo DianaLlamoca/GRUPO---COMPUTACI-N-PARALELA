@@ -9,7 +9,7 @@
 **Multiprocessing**
 
 **Asyncio**
-![](https://github.com/DianaLlamoca/GRUPO---COMPUTACI-N-PARALELA/blob/main/ACTIVIDAD%207/IM%C3%81GENES/asyncio.png)
+![](https://github.com/DianaLlamoca/GRUPO---COMPUTACI-N-PARALELA/blob/main/ACTIVIDAD%207/IM%C3%81GENES/asyncio_imagen.png)
 
 **Concurrent.futures**
 
