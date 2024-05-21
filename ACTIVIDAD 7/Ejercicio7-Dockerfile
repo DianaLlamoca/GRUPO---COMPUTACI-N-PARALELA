@@ -4,7 +4,7 @@ FROM ubuntu
 RUN apt-get update && apt-get install -y python3-pip
 
 #Instalamos PIL
-RUN apt install python3-Pillow
+RUN pip install Pillow
 
 #Ya que fue instalado python, copiamos el archivo .py a una carpeta a la imagen ubuntu instalada
 #Primero, asignamos que el directorio home sea el directorio de trabajo
