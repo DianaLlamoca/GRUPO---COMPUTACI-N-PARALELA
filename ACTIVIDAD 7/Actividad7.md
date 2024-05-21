@@ -11,3 +11,8 @@
 **Asyncio**
 
 **Concurrent.futures**
+
+### 3) Explica cómo Docker puede ser usado para simular entornos distribuidos y la importancia de la contenerización en proyectos paralelos y distribuidos.
+
+
+# PARTE 2: EJERCICIOS PRÁCTICO
