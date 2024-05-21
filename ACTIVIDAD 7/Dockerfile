@@ -8,7 +8,7 @@ RUN apt-get update && apt-get install -y python3
 WORKDIR /home
 
 #Ahora, copiamos el archivo .py al directorio actual (en este caso home)
-COPY Ejercicio6.py . 
+COPY Ejercicio4.py . 
 
 #Finalmente, con el comando cmd ejecutamos el programa
 CMD python3 Ejercicio6.py
