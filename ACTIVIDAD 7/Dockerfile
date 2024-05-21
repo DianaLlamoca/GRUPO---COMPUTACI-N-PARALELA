@@ -11,4 +11,4 @@ WORKDIR /home
 COPY Ejercicio4.py . 
 
 #Finalmente, con el comando cmd ejecutamos el programa
-CMD python3 Ejercicio6.py
+CMD python3 Ejercicio4.py
