@@ -4,3 +4,5 @@
 
 -La concurrencia es preferible usarla en operaciones de I/O, es decir, que las tareas impliquen un tiempo de espera. Mientras que el paralelismo es mejor en operaciones de CPU.
 
+2)Presenta un repaso sobre los módulos multiprocessing, asyncio, y concurrent.futures.  3. Explica cómo Docker puede ser usado para simular entornos distribuidos y la importancia de  la contenerización en proyectos paralelos y distribuidos. 
+
