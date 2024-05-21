@@ -1,8 +1,6 @@
-## PARTE 1: TEORÍA
-1) ¿Cuáles son las diferencias entre concurrencia y paralelismo? ¿En qué escenario es preferible usar concurrencia sobre paralelismo y viceversa?
--La concurrencia implica que se gestionen múltiples tareas a la misma vez, pero que no necesariamente se estén ejecutando al mismo. Mientras que el paralelismo sí implica concurrencia y además, que las tareas se ejecuten simultáneamente.
+# PARTE 1: TEORÍA
+## 1) ¿Cuáles son las diferencias entre concurrencia y paralelismo? ¿En qué escenario es preferible usar concurrencia sobre paralelismo y viceversa?
 
--La concurrencia es preferible usarla en operaciones de I/O, es decir, que las tareas impliquen un tiempo de espera. Mientras que el paralelismo es mejor en operaciones de CPU.
+**-La concurrencia implica que se gestionen múltiples tareas a la misma vez, pero que no necesariamente se estén ejecutando al mismo. Mientras que el paralelismo sí implica concurrencia y además, que las tareas se ejecuten simultáneamente.**
 
-2)Presenta un repaso sobre los módulos multiprocessing, asyncio, y concurrent.futures.  3. Explica cómo Docker puede ser usado para simular entornos distribuidos y la importancia de  la contenerización en proyectos paralelos y distribuidos. 
-
+**-La concurrencia es preferible usarla en operaciones de I/O, es decir, que las tareas impliquen un tiempo de espera. Mientras que el paralelismo es mejor en operaciones de CPU.**
